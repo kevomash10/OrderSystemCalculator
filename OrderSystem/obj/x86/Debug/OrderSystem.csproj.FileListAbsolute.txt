@@ -1,0 +1,17 @@
+C:\Users\kevo\AppData\Local\Temporary Projects\OrderSystem\bin\Debug\OrderSystem.exe
+C:\Users\kevo\AppData\Local\Temporary Projects\OrderSystem\bin\Debug\OrderSystem.pdb
+C:\Users\kevo\AppData\Local\Temporary Projects\OrderSystem\obj\x86\Debug\OrderSystem.AddNew.resources
+C:\Users\kevo\AppData\Local\Temporary Projects\OrderSystem\obj\x86\Debug\OrderSystem.Form1.resources
+C:\Users\kevo\AppData\Local\Temporary Projects\OrderSystem\obj\x86\Debug\OrderSystem.Properties.Resources.resources
+C:\Users\kevo\AppData\Local\Temporary Projects\OrderSystem\obj\x86\Debug\OrderSystem.csproj.GenerateResource.Cache
+C:\Users\kevo\AppData\Local\Temporary Projects\OrderSystem\obj\x86\Debug\OrderSystem.exe
+C:\Users\kevo\AppData\Local\Temporary Projects\OrderSystem\obj\x86\Debug\OrderSystem.pdb
+C:\Users\kevo\Documents\Visual Studio 2010\Projects\OrderSystem\OrderSystem\obj\x86\Debug\OrderSystem.exe
+C:\Users\kevo\Documents\Visual Studio 2010\Projects\OrderSystem\OrderSystem\obj\x86\Debug\OrderSystem.pdb
+C:\Users\kevo\Documents\Visual Studio 2010\Projects\OrderSystem\OrderSystem\bin\Debug\OrderSystem.exe
+C:\Users\kevo\Documents\Visual Studio 2010\Projects\OrderSystem\OrderSystem\bin\Debug\OrderSystem.pdb
+C:\Users\kevo\Documents\Visual Studio 2010\Projects\OrderSystem\OrderSystem\obj\x86\Debug\OrderSystem.AddNew.resources
+C:\Users\kevo\Documents\Visual Studio 2010\Projects\OrderSystem\OrderSystem\obj\x86\Debug\OrderSystem.Form1.resources
+C:\Users\kevo\Documents\Visual Studio 2010\Projects\OrderSystem\OrderSystem\obj\x86\Debug\OrderSystem.Properties.Resources.resources
+C:\Users\kevo\Documents\Visual Studio 2010\Projects\OrderSystem\OrderSystem\obj\x86\Debug\OrderSystem.csproj.GenerateResource.Cache
+C:\Users\kevo\Documents\Visual Studio 2010\Projects\OrderSystem\OrderSystem\obj\x86\Debug\OrderSystem.csprojResolveAssemblyReference.cache
